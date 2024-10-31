@@ -1,0 +1,7 @@
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\SimpleWebAPI.exe
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\SimpleWebAPI.dll
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\SimpleWebAPI.deps.json
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\SimpleWebAPI.runtimeconfig.json
+C:\Users\julio\source\repos\SimpleWebAPI\SimpleWebAPI\obj\Release\net8.0\PubTmp\Out\SimpleWebAPI.pdb
